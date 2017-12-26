@@ -11,9 +11,11 @@
 
 ---
 name: hangyl_hanja
-version: "0.5"	#2016.01.25
+version: "0.6"	#2017.12.26
 sort: by_weight	#original
 use_preset_vocabulary: true
+import_tables:
+  - hangyl
 ...
 
 
@@ -78,6 +80,7 @@ use_preset_vocabulary: true
 閣	gag	각
 角	gag	각
 各	gag	각
+臵	gag	각
 迀	gan	간
 衎	gan	간
 茛	gan	간
@@ -589,6 +592,7 @@ use_preset_vocabulary: true
 昆	gon	곤
 坤	gon	곤
 困	gon	곤
+猑	gon	곤
 矻	gol	골
 搰	gol	골
 鶻	gol	골
@@ -7807,7 +7811,7 @@ use_preset_vocabulary: true
 吧	pa	파
 孬	no	노
 掹	maig	맹
-
+啥   sa
 
 亦是
 代身
