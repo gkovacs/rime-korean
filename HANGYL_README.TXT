@@ -1,4 +1,4 @@
-﻿HANGYL ReadMe 
+﻿HANGYL ReadMe
 hangyl 0.92
 hangyl_hanja 0.51
 
@@ -23,11 +23,10 @@ hangyl 0.9, hangyl_hanja 0.5版更新：
 1. 如需與漢字混合輸入可使用反査功能或到hangyl.schema.yaml中啓用abc_segmenter
 2. hangyl方案如需直接上屛，可到hangyl.schema.yaml中engine處註釋掉- fluency_editor；若要enter韓文上屛，可註釋掉- express_editor
 
-如有疑問或建議，請到QQ羣「中州韻輸入法引擎」（77608640）諮詢
-或直接聯繫作者Patrick （QQ 493265656），或發函至ipatrickmac@qq.com
+如有疑問或建議，請直接聯繫作者Patrick （QQ 493265656），或發函至ipatrickmac@qq.com
 
 歡迎訪問
-「中州韻輸入法引擎」 https://code.google.com/p/rimeime/
+「中州韻輸入法引擎」 http://rime.im/
 
 更多方案參見
-「Rime翰林院」 https://code.google.com/p/rime-aca/
+「Rime翰林院」 https://github.com/rime-aca
