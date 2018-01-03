@@ -18,7 +18,77 @@ import_tables:
   - hangyl
 ...
 
+#推導漢字音
+嗯 qyn 은
+啦 lab 랍
+吧 pa  파
+孬 no  노
+孬 qoai  왜
+掹 maig  맹
+啥 sa  사
+臵 gieg  격
+喏 qia 야
+嘛 ma  마
+嗎 ma  마
+哋 ji  지
+啲 jeg 적
+仨 sab 삽
+仨 sam 삼
+呸 bi  비
+哪 na  나
+嘿 hyg 흑
+焊 han 한
+晗 ham 함
+咊 hoa 화
+唅 ham 함
+擋 daq 당
+閂 san 산
+涮 soai  쇄
+唰 sal 살
+唰 sel 설
+蔊 han 한
+獁 ma  마
+喵 mio 묘
+瞄 mio 묘
+嬤 ma  마
+蟆 ma  마
+啐 coai  쵀
+傻 sa  사
+囧 gieq  경
+冂 gieq  경
+吖 qa  아
+腌 qem 엄
+壩 pai 패
+壩 pa  파
+疤 pa  파
+粑 pa  파
+靶 pa  파
+画 hoa 화
+画 hoig  획
+㓰 hoig  획
+䃮 dal 달
+䥑 maig  맥
+叻 lieg  력
+荔   lie 려
+詈 li  리
+哎 qai 애
+嬡 qai 애
+嗌 qig 익
+璦 qai 애
+氨 qan 안
+胺 qal 알
+鵪 qam 암
+摁 qyn 은
+骯 haq 항
+洱 qi  이
+鴯 qi  이
+咦 qi  이
+頤 qi  이
+胰 qi  이
+羿 qiei  예
 
+
+#Unihan Korean
 耞	ga	가
 檟	ga	가
 斝	ga	가
@@ -7804,14 +7874,6 @@ import_tables:
 尿	qio	요
 丹	lan	란
 怒	lo	로
-
-#推導漢字音
-嗯	qyn	은
-啦	lab	랍
-吧	pa	파
-孬	no	노
-掹	maig	맹
-啥   sa
 
 亦是
 代身
