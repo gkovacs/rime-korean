@@ -8,12 +8,12 @@
 
 ---
 
-name: hangyl
+name: korean
 version: "0.13"
 sort: by_weight	#original
 use_preset_vocabulary: false
 import_tables:
-  - hangyl_hanja
+  - korean_hanja
 ...
 
 ㄱ	g	0%

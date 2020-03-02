@@ -32,7 +32,7 @@ Now reload RIME and it should appear under your layouts.
 
 ## Layout
 
-See `hangyl.dict.yaml` for details on the romanization convention. In a nutshell:
+See `korean.dict.yaml` for details on the romanization convention. In a nutshell:
 
 q or x = ng
 y = eu

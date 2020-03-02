@@ -10,12 +10,12 @@
 #
 
 ---
-name: hangyl_hanja
+name: korean_hanja
 version: "0.6"	#2017.12.26
 sort: by_weight	#original
 use_preset_vocabulary: true
 import_tables:
-  - hangyl
+  - korean
 ...
 
 #推導漢字音

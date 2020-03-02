@@ -3,7 +3,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: hangyl
+  schema_id: korean
   name: 한글 ₀.₉₂
   version: "0.92"
   author:
@@ -69,8 +69,8 @@ speller:
     - derive/^([A-Za-z]+)\d$/$1/
 
 translator:
-  dictionary: hangyl
-  prism: hangyl
+  dictionary: korean
+  prism: korean
   spelling_hints: 9
   preedit_format:
     - xform/'/ /
@@ -81,7 +81,7 @@ translator:
     - xform/q/ng/
 
 reverse_lookup:
-  dictionary: hangyl_hanja
+  dictionary: korean_hanja
   prefix: "`"
   tips: 〔漢字・한자〕
   comment_format:

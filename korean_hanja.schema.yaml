@@ -3,7 +3,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: hangyl_hanja
+  schema_id: korean_hanja
   name: 한글・漢字 ₀.₅₁
   version: "0.51"
   author:
@@ -70,8 +70,8 @@ speller:
     - abbrev/(^|[ '])([gndlmbsqjcktph]).+$/$1$2/
 
 translator:
-  dictionary: hangyl_hanja
-  prism: hangyl_hanja
+  dictionary: korean_hanja
+  prism: korean_hanja
   spelling_hints: 9
   preedit_format:
     - xform/'/ /
