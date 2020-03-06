@@ -82,6 +82,7 @@ translator:
 
 reverse_lookup:
   dictionary: korean_hanja
+  spelling_hints: 10
   prefix: "`"
   tips: 〔漢字・한자〕
   comment_format:
@@ -136,4 +137,4 @@ recognizer:
 
 abc_segmentor:
   extra_tags:
-    #- reverse_lookup
+    - reverse_lookup
