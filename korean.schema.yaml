@@ -126,9 +126,6 @@ punctuator:
     "{" : "{"
     "}" : "}"
 
-key_binder:
-  import_preset: default
-
 recognizer:
   import_preset: default
   patterns:
@@ -137,3 +134,21 @@ recognizer:
 abc_segmentor:
   extra_tags:
     - reverse_lookup
+
+key_binder:
+  bindings:
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+n", select: japanese, when: always}
+    - {accept: "Control+Shift+N", select: japanese, when: always}
+    - {accept: "Control+Shift+k", select: korean, when: always}
+    - {accept: "Control+Shift+K", select: korean, when: always}
+    - {accept: "Control+Shift+v", select: vietnamese, when: always}
+    - {accept: "Control+Shift+V", select: vietnamese, when: always}
+    - {accept: "Control+Shift+j", select: double_jyutping_extra, when: always}
+    - {accept: "Control+Shift+J", select: double_jyutping_extra, when: always}
+    - {accept: "Control+Shift+p", select: td_pinyin_flypy_extra, when: always}
+    - {accept: "Control+Shift+P", select: td_pinyin_flypy_extra, when: always}
+    - {accept: "Control+Shift+l", select: international, when: always}
+    - {accept: "Control+Shift+L", select: international, when: always}
+    - {accept: "F16", select: .next, when: always}
+    - {accept: "F19", select: international, when: always}
