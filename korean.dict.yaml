@@ -2,7 +2,7 @@
 # mim: set ts=8 sw=8 noet:
 # encoding: utf-8
 #
-# hangyl - 한글
+# hangwl - 한글
 # Patrick <ipatrickmac@gmail.com>
 # 韓文轉寫方案
 
@@ -521,62 +521,62 @@ import_tables:
 귵	giut
 귶	giup
 귷	giuh
-그	gy	1000
-극	gyg	1000
-귺	gygg
-귻	gygs
-근	gyn	1000
-귽	gynj
-귾	gynh
-귿	gyd	1000
-글	gyl	1000
-긁	gylg	1000
-긂	gylm
-긃	gylb
-긄	gyls
-긅	gylt
-긆	gylp
-긇	gylh
-금	gym	1000
-급	gyb	1000
-긊	gybs
-긋	gys	1000
-긌	gyss
-긍	gyq	1000
-긎	gyj
-긏	gyc
-긐	gyk
-긑	gyt
-긒	gyp
-긓	gyh
-긔	gyi	1000
-긕	gyig
-긖	gyigg
-긗	gyigs
-긘	gyin
-긙	gyins
-긚	gyinh
-긛	gyid
-긜	gyil
-긝	gyilg
-긞	gyilm
-긟	gyilb
-긠	gyils
-긡	gyilt
-긢	gyilp
-긣	gyilh
-긤	gyim
-긥	gyib
-긦	gyibs
-긧	gyis
-긨	gyiss
-긩	gyiq
-긪	gyij
-긫	gyic
-긬	gyik
-긭	gyit
-긮	gyip
-긯	gyih
+그	gw	1000
+극	gwg	1000
+귺	gwgg
+귻	gwgs
+근	gwn	1000
+귽	gwnj
+귾	gwnh
+귿	gwd	1000
+글	gwl	1000
+긁	gwlg	1000
+긂	gwlm
+긃	gwlb
+긄	gwls
+긅	gwlt
+긆	gwlp
+긇	gwlh
+금	gwm	1000
+급	gwb	1000
+긊	gwbs
+긋	gws	1000
+긌	gwss
+긍	gwq	1000
+긎	gwj
+긏	gwc
+긐	gwk
+긑	gwt
+긒	gwp
+긓	gwh
+긔	gwi	1000
+긕	gwig
+긖	gwigg
+긗	gwigs
+긘	gwin
+긙	gwins
+긚	gwinh
+긛	gwid
+긜	gwil
+긝	gwilg
+긞	gwilm
+긟	gwilb
+긠	gwils
+긡	gwilt
+긢	gwilp
+긣	gwilh
+긤	gwim
+긥	gwib
+긦	gwibs
+긧	gwis
+긨	gwiss
+긩	gwiq
+긪	gwij
+긫	gwic
+긬	gwik
+긭	gwit
+긮	gwip
+긯	gwih
 기	gi	1000
 긱	gig	1000
 긲	gigg
@@ -1110,62 +1110,62 @@ import_tables:
 끁	ggiut
 끂	ggiup
 끃	ggiuh
-끄	ggy	1000
-끅	ggyg	1000
-끆	ggygg
-끇	ggygs
-끈	ggyn	1000
-끉	ggynj
-끊	ggynh	1000
-끋	ggyd
-끌	ggyl	1000
-끍	ggylg
-끎	ggylm	1000
-끏	ggylb
-끐	ggyls
-끑	ggylt
-끒	ggylp
-끓	ggylh	1000
-끔	ggym	1000
-끕	ggyb	1000
-끖	ggybs
-끗	ggys	1000
-끘	ggyss
-끙	ggyq	1000
-끚	ggyj
-끛	ggyc
-끜	ggyk
-끝	ggyt	1000
-끞	ggyp
-끟	ggyh
-끠	ggyi
-끡	ggyig
-끢	ggyigg
-끣	ggyigs
-끤	ggyin
-끥	ggyinj
-끦	ggyinh
-끧	ggyid
-끨	ggyil
-끩	ggyilg
-끪	ggyilm
-끫	ggyilb
-끬	ggyils
-끭	ggyilt
-끮	ggyilp
-끯	ggyilh
-끰	ggyim
-끱	ggyib
-끲	ggyibs
-끳	ggyis
-끴	ggyiss
-끵	ggyiq
-끶	ggyij
-끷	ggyic
-끸	ggyik
-끹	ggyit
-끺	ggyip
-끻	ggyih
+끄	ggw	1000
+끅	ggwg	1000
+끆	ggwgg
+끇	ggwgs
+끈	ggwn	1000
+끉	ggwnj
+끊	ggwnh	1000
+끋	ggwd
+끌	ggwl	1000
+끍	ggwlg
+끎	ggwlm	1000
+끏	ggwlb
+끐	ggwls
+끑	ggwlt
+끒	ggwlp
+끓	ggwlh	1000
+끔	ggwm	1000
+끕	ggwb	1000
+끖	ggwbs
+끗	ggws	1000
+끘	ggwss
+끙	ggwq	1000
+끚	ggwj
+끛	ggwc
+끜	ggwk
+끝	ggwt	1000
+끞	ggwp
+끟	ggwh
+끠	ggwi
+끡	ggwig
+끢	ggwigg
+끣	ggwigs
+끤	ggwin
+끥	ggwinj
+끦	ggwinh
+끧	ggwid
+끨	ggwil
+끩	ggwilg
+끪	ggwilm
+끫	ggwilb
+끬	ggwils
+끭	ggwilt
+끮	ggwilp
+끯	ggwilh
+끰	ggwim
+끱	ggwib
+끲	ggwibs
+끳	ggwis
+끴	ggwiss
+끵	ggwiq
+끶	ggwij
+끷	ggwic
+끸	ggwik
+끹	ggwit
+끺	ggwip
+끻	ggwih
 끼	ggi	1000
 끽	ggig	1000
 끾	ggigg
@@ -1700,62 +1700,62 @@ import_tables:
 늍	niut
 늎	niup
 늏	niuh
-느	ny	1000
-늑	nyg	1000
-늒	nygg
-늓	nygs
-는	nyn	1000
-늕	nynj
-늖	nynh
-늗	nyd
-늘	nyl	1000
-늙	nylg	1000
-늚	nylm	1000
-늛	nylb
-늜	nyls
-늝	nylt
-늞	nylp
-늟	nylh
-늠	nym	1000
-늡	nyb	1000
-늢	nybs
-늣	nys	1000
-늤	nyss
-능	nyq	1000
-늦	nyj	1000
-늧	nyc
-늨	nyk
-늩	nyt
-늪	nyp	1000
-늫	nyh
-늬	nyi	1000
-늭	nyig
-늮	nyigg
-늯	nyigs
-늰	nyin	1000
-늱	nyinj
-늲	nyinh
-늳	nyid
-늴	nyil	1000
-늵	nyilg
-늶	nyilm
-늷	nyilb
-늸	nyils
-늹	nyilt
-늺	nyilp
-늻	nyilh
-늼	nyim
-늽	nyib
-늾	nyibs
-늿	nyis
-닀	nyiss
-닁	nyiq
-닂	nyij
-닃	nyic
-닄	nyik
-닅	nyit
-닆	nyip
-닇	nyih
+느	nw	1000
+늑	nwg	1000
+늒	nwgg
+늓	nwgs
+는	nwn	1000
+늕	nwnj
+늖	nwnh
+늗	nwd
+늘	nwl	1000
+늙	nwlg	1000
+늚	nwlm	1000
+늛	nwlb
+늜	nwls
+늝	nwlt
+늞	nwlp
+늟	nwlh
+늠	nwm	1000
+늡	nwb	1000
+늢	nwbs
+늣	nws	1000
+늤	nwss
+능	nwq	1000
+늦	nwj	1000
+늧	nwc
+늨	nwk
+늩	nwt
+늪	nwp	1000
+늫	nwh
+늬	nwi	1000
+늭	nwig
+늮	nwigg
+늯	nwigs
+늰	nwin	1000
+늱	nwinj
+늲	nwinh
+늳	nwid
+늴	nwil	1000
+늵	nwilg
+늶	nwilm
+늷	nwilb
+늸	nwils
+늹	nwilt
+늺	nwilp
+늻	nwilh
+늼	nwim
+늽	nwib
+늾	nwibs
+늿	nwis
+닀	nwiss
+닁	nwiq
+닂	nwij
+닃	nwic
+닄	nwik
+닅	nwit
+닆	nwip
+닇	nwih
 니	ni	1000
 닉	nig	1000
 닊	nigg
@@ -2295,62 +2295,62 @@ import_tables:
 듙	diut
 듚	diup
 듛	diuh
-드	dy	1000
-득	dyg	1000
-듞	dygg
-듟	dygs
-든	dyn	1000
-듡	dynj
-듢	dynh
-듣	dyd	1000
-들	dyl	1000
-듥	dylg
-듦	dylm	1000
-듧	dylb
-듨	dyls
-듩	dylt
-듪	dylp
-듫	dylh
-듬	dym	1000
-듭	dyb	1000
-듮	dybs
-듯	dys	1000
-듰	dyss
-등	dyq	1000
-듲	dyj
-듳	dyc
-듴	dyk
-듵	dyt
-듶	dyp
-듷	dyh
-듸	dyi	1000
-듹	dyig
-듺	dyigg
-듻	dyigs
-듼	dyin
-듽	dyinj
-듾	dyinh
-듿	dyid
-딀	dyil
-딁	dyilg
-딂	dyilm
-딃	dyilb
-딄	dyils
-딅	dyilt
-딆	dyilp
-딇	dyilh
-딈	dyim
-딉	dyib
-딊	dyibs
-딋	dyis
-딌	dyiss
-딍	dyiq
-딎	dyij
-딏	dyic
-딐	dyik
-딑	dyit
-딒	dyip
-딓	dyih
+드	dw	1000
+득	dwg	1000
+듞	dwgg
+듟	dwgs
+든	dwn	1000
+듡	dwnj
+듢	dwnh
+듣	dwd	1000
+들	dwl	1000
+듥	dwlg
+듦	dwlm	1000
+듧	dwlb
+듨	dwls
+듩	dwlt
+듪	dwlp
+듫	dwlh
+듬	dwm	1000
+듭	dwb	1000
+듮	dwbs
+듯	dws	1000
+듰	dwss
+등	dwq	1000
+듲	dwj
+듳	dwc
+듴	dwk
+듵	dwt
+듶	dwp
+듷	dwh
+듸	dwi	1000
+듹	dwig
+듺	dwigg
+듻	dwigs
+듼	dwin
+듽	dwinj
+듾	dwinh
+듿	dwid
+딀	dwil
+딁	dwilg
+딂	dwilm
+딃	dwilb
+딄	dwils
+딅	dwilt
+딆	dwilp
+딇	dwilh
+딈	dwim
+딉	dwib
+딊	dwibs
+딋	dwis
+딌	dwiss
+딍	dwiq
+딎	dwij
+딏	dwic
+딐	dwik
+딑	dwit
+딒	dwip
+딓	dwih
 디	di	1000
 딕	dig	1000
 딖	digg
@@ -2884,62 +2884,62 @@ import_tables:
 뜥	ddiut
 뜦	ddiup
 뜧	ddiuh
-뜨	ddy	1000
-뜩	ddyg	1000
-뜪	ddygg
-뜫	ddygs
-뜬	ddyn	1000
-뜭	ddynj
-뜮	ddynh
-뜯	ddyd	1000
-뜰	ddyl	1000
-뜱	ddylg
-뜲	ddylm
-뜳	ddylb
-뜴	ddyls
-뜵	ddylt
-뜶	ddylp
-뜷	ddylh
-뜸	ddym	1000
-뜹	ddyb	1000
-뜺	ddybs
-뜻	ddys	1000
-뜼	ddyss
-뜽	ddyq
-뜾	ddyj
-뜿	ddyc
-띀	ddyk
-띁	ddyt
-띂	ddyp
-띃	ddyh
-띄	ddyi	1000
-띅	ddyig
-띆	ddyigg
-띇	ddyigs
-띈	ddyin	1000
-띉	ddyinj
-띊	ddyinh
-띋	ddyid
-띌	ddyil	1000
-띍	ddyilg
-띎	ddyilm
-띏	ddyilb
-띐	ddyils
-띑	ddyilt
-띒	ddyilp
-띓	ddyilh
-띔	ddyim	1000
-띕	ddyib	1000
-띖	ddyibs
-띗	ddyis
-띘	ddyiss
-띙	ddyiq
-띚	ddyij
-띛	ddyic
-띜	ddyik
-띝	ddyit
-띞	ddyip
-띟	ddyih
+뜨	ddw	1000
+뜩	ddwg	1000
+뜪	ddwgg
+뜫	ddwgs
+뜬	ddwn	1000
+뜭	ddwnj
+뜮	ddwnh
+뜯	ddwd	1000
+뜰	ddwl	1000
+뜱	ddwlg
+뜲	ddwlm
+뜳	ddwlb
+뜴	ddwls
+뜵	ddwlt
+뜶	ddwlp
+뜷	ddwlh
+뜸	ddwm	1000
+뜹	ddwb	1000
+뜺	ddwbs
+뜻	ddws	1000
+뜼	ddwss
+뜽	ddwq
+뜾	ddwj
+뜿	ddwc
+띀	ddwk
+띁	ddwt
+띂	ddwp
+띃	ddwh
+띄	ddwi	1000
+띅	ddwig
+띆	ddwigg
+띇	ddwigs
+띈	ddwin	1000
+띉	ddwinj
+띊	ddwinh
+띋	ddwid
+띌	ddwil	1000
+띍	ddwilg
+띎	ddwilm
+띏	ddwilb
+띐	ddwils
+띑	ddwilt
+띒	ddwilp
+띓	ddwilh
+띔	ddwim	1000
+띕	ddwib	1000
+띖	ddwibs
+띗	ddwis
+띘	ddwiss
+띙	ddwiq
+띚	ddwij
+띛	ddwic
+띜	ddwik
+띝	ddwit
+띞	ddwip
+띟	ddwih
 띠	ddi	1000
 띡	ddig
 띢	ddigg
@@ -3473,62 +3473,62 @@ import_tables:
 륱	liut
 륲	liup
 륳	liuh
-르	ly	1000
-륵	lyg	1000
-륶	lygg
-륷	lygs
-른	lyn	1000
-륹	lynj
-륺	lynh
-륻	lyd
-를	lyl	1000
-륽	lylg
-륾	lylm
-륿	lylb
-릀	lyls
-릁	lylt
-릂	lylp
-릃	lylh
-름	lym	1000
-릅	lyb	1000
-릆	lybs
-릇	lys	1000
-릈	lyss
-릉	lyq	1000
-릊	lyj	1000
-릋	lyc
-릌	lyk
-릍	lyt	1000
-릎	lyp	1000
-릏	lyh
-릐	lyi
-릑	lyig
-릒	lyigg
-릓	lyigs
-릔	lyin
-릕	lyinj
-릖	lyinh
-릗	lyid
-릘	lyil
-릙	lyilg
-릚	lyilm
-릛	lyilb
-릜	lyils
-릝	lyilt
-릞	lyilp
-릟	lyilh
-릠	lyim
-릡	lyib
-릢	lyibs
-릣	lyis
-릤	lyiss
-릥	lyiq
-릦	lyij
-릧	lyic
-릨	lyik
-릩	lyit
-릪	lyip
-릫	lyih
+르	lw	1000
+륵	lwg	1000
+륶	lwgg
+륷	lwgs
+른	lwn	1000
+륹	lwnj
+륺	lwnh
+륻	lwd
+를	lwl	1000
+륽	lwlg
+륾	lwlm
+륿	lwlb
+릀	lwls
+릁	lwlt
+릂	lwlp
+릃	lwlh
+름	lwm	1000
+릅	lwb	1000
+릆	lwbs
+릇	lws	1000
+릈	lwss
+릉	lwq	1000
+릊	lwj	1000
+릋	lwc
+릌	lwk
+릍	lwt	1000
+릎	lwp	1000
+릏	lwh
+릐	lwi
+릑	lwig
+릒	lwigg
+릓	lwigs
+릔	lwin
+릕	lwinj
+릖	lwinh
+릗	lwid
+릘	lwil
+릙	lwilg
+릚	lwilm
+릛	lwilb
+릜	lwils
+릝	lwilt
+릞	lwilp
+릟	lwilh
+릠	lwim
+릡	lwib
+릢	lwibs
+릣	lwis
+릤	lwiss
+릥	lwiq
+릦	lwij
+릧	lwic
+릨	lwik
+릩	lwit
+릪	lwip
+릫	lwih
 리	li	1000
 릭	lig	1000
 릮	ligg
@@ -4075,62 +4075,62 @@ import_tables:
 뮽	miut
 뮾	miup
 뮿	miuh
-므	my	1000
-믁	myg
-믂	mygg
-믃	mygs
-믄	myn	1000
-믅	mynj
-믆	mynh
-믇	myd
-믈	myl	1000
-믉	mylg
-믊	mylm
-믋	mylb
-믌	myls
-믍	mylt
-믎	mylp
-믏	mylh
-믐	mym	1000
-믑	myb
-믒	mybs
-믓	mys	1000
-믔	myss
-믕	myq
-믖	myj
-믗	myc
-믘	myk
-믙	myt
-믚	myp
-믛	myh
-믜	myi
-믝	myig
-믞	myigg
-믟	myigs
-믠	myin
-믡	myinj
-믢	myinh
-믣	myid
-믤	myil
-믥	myilg
-믦	myilm
-믧	myilb
-믨	myils
-믩	myilt
-믪	myilp
-믫	myilh
-믬	myim
-믭	myib
-믮	myibs
-믯	myis
-믰	myiss
-믱	myiq
-믲	myij
-믳	myic
-믴	myik
-믵	myit
-믶	myip
-믷	myih
+므	mw	1000
+믁	mwg
+믂	mwgg
+믃	mwgs
+믄	mwn	1000
+믅	mwnj
+믆	mwnh
+믇	mwd
+믈	mwl	1000
+믉	mwlg
+믊	mwlm
+믋	mwlb
+믌	mwls
+믍	mwlt
+믎	mwlp
+믏	mwlh
+믐	mwm	1000
+믑	mwb
+믒	mwbs
+믓	mws	1000
+믔	mwss
+믕	mwq
+믖	mwj
+믗	mwc
+믘	mwk
+믙	mwt
+믚	mwp
+믛	mwh
+믜	mwi
+믝	mwig
+믞	mwigg
+믟	mwigs
+믠	mwin
+믡	mwinj
+믢	mwinh
+믣	mwid
+믤	mwil
+믥	mwilg
+믦	mwilm
+믧	mwilb
+믨	mwils
+믩	mwilt
+믪	mwilp
+믫	mwilh
+믬	mwim
+믭	mwib
+믮	mwibs
+믯	mwis
+믰	mwiss
+믱	mwiq
+믲	mwij
+믳	mwic
+믴	mwik
+믵	mwit
+믶	mwip
+믷	mwih
 미	mi	1000
 믹	mig	1000
 믺	migg
@@ -4668,62 +4668,62 @@ import_tables:
 븉	biut
 븊	biup
 븋	biuh
-브	by	1000
-븍	byg	1000
-븎	bygg
-븏	bygs
-븐	byn	1000
-븑	bynj
-븒	bynh
-븓	byd
-블	byl	1000
-븕	bylg
-븖	bylm
-븗	bylb
-븘	byls
-븙	bylt
-븚	bylp
-븛	bylh
-븜	bym	1000
-븝	byb	1000
-븞	bybs
-븟	bys	1000
-븠	byss
-븡	byq
-븢	byj
-븣	byc
-븤	byk
-븥	byt
-븦	byp
-븧	byh
-븨	byi
-븩	byig
-븪	byigg
-븫	byigs
-븬	byin
-븭	byinj
-븮	byinh
-븯	byid
-븰	byil
-븱	byilg
-븲	byilm
-븳	byilb
-븴	byils
-븵	byilt
-븶	byilp
-븷	byilh
-븸	byim
-븹	byib
-븺	byibs
-븻	byis
-븼	byiss
-븽	byiq
-븾	byij
-븿	byic
-빀	byik
-빁	byit
-빂	byip
-빃	byih
+브	bw	1000
+븍	bwg	1000
+븎	bwgg
+븏	bwgs
+븐	bwn	1000
+븑	bwnj
+븒	bwnh
+븓	bwd
+블	bwl	1000
+븕	bwlg
+븖	bwlm
+븗	bwlb
+븘	bwls
+븙	bwlt
+븚	bwlp
+븛	bwlh
+븜	bwm	1000
+븝	bwb	1000
+븞	bwbs
+븟	bws	1000
+븠	bwss
+븡	bwq
+븢	bwj
+븣	bwc
+븤	bwk
+븥	bwt
+븦	bwp
+븧	bwh
+븨	bwi
+븩	bwig
+븪	bwigg
+븫	bwigs
+븬	bwin
+븭	bwinj
+븮	bwinh
+븯	bwid
+븰	bwil
+븱	bwilg
+븲	bwilm
+븳	bwilb
+븴	bwils
+븵	bwilt
+븶	bwilp
+븷	bwilh
+븸	bwim
+븹	bwib
+븺	bwibs
+븻	bwis
+븼	bwiss
+븽	bwiq
+븾	bwij
+븿	bwic
+빀	bwik
+빁	bwit
+빂	bwip
+빃	bwih
 비	bi	1000
 빅	big	1000
 빆	bigg
@@ -5259,62 +5259,62 @@ import_tables:
 쁕	bbiut
 쁖	bbiup
 쁗	bbiuh
-쁘	bby	1000
-쁙	bbyg
-쁚	bbygg
-쁛	bbygs
-쁜	bbyn	1000
-쁝	bbynj
-쁞	bbynh
-쁟	bbyd
-쁠	bbyl	1000
-쁡	bbbylg
-쁢	bbylm
-쁣	bbylb
-쁤	bbyls
-쁥	bbylt
-쁦	bbylp
-쁧	bbylh
-쁨	bbym	1000
-쁩	bbyb	1000
-쁪	bbybs
-쁫	bbys
-쁬	bbyss
-쁭	bbyq
-쁮	bbyj
-쁯	bbyc
-쁰	bbyk
-쁱	bbyt
-쁲	bbyp
-쁳	bbyh
-쁴	bbyi
-쁵	bbyig
-쁶	bbyigg
-쁷	bbyigs
-쁸	bbyin
-쁹	bbyinj
-쁺	bbyinh
-쁻	bbyid
-쁼	bbyil
-쁽	bbyilg
-쁾	bbyilm
-쁿	bbyilb
-삀	bbyils
-삁	bbyilt
-삂	bbyilp
-삃	bbyilh
-삄	bbyim
-삅	bbyib
-삆	bbyibs
-삇	bbyis
-삈	bbyiss
-삉	bbyiq
-삊	bbyij
-삋	bbyic
-삌	bbyik
-삍	bbyit
-삎	bbyip
-삏	bbyih
+쁘	bbw	1000
+쁙	bbwg
+쁚	bbwgg
+쁛	bbwgs
+쁜	bbwn	1000
+쁝	bbwnj
+쁞	bbwnh
+쁟	bbwd
+쁠	bbwl	1000
+쁡	bbbwlg
+쁢	bbwlm
+쁣	bbwlb
+쁤	bbwls
+쁥	bbwlt
+쁦	bbwlp
+쁧	bbwlh
+쁨	bbwm	1000
+쁩	bbwb	1000
+쁪	bbwbs
+쁫	bbws
+쁬	bbwss
+쁭	bbwq
+쁮	bbwj
+쁯	bbwc
+쁰	bbwk
+쁱	bbwt
+쁲	bbwp
+쁳	bbwh
+쁴	bbwi
+쁵	bbwig
+쁶	bbwigg
+쁷	bbwigs
+쁸	bbwin
+쁹	bbwinj
+쁺	bbwinh
+쁻	bbwid
+쁼	bbwil
+쁽	bbwilg
+쁾	bbwilm
+쁿	bbwilb
+삀	bbwils
+삁	bbwilt
+삂	bbwilp
+삃	bbwilh
+삄	bbwim
+삅	bbwib
+삆	bbwibs
+삇	bbwis
+삈	bbwiss
+삉	bbwiq
+삊	bbwij
+삋	bbwic
+삌	bbwik
+삍	bbwit
+삎	bbwip
+삏	bbwih
 삐	bbi	1000
 삑	bbig	1000
 삒	bbigg
@@ -5855,62 +5855,62 @@ import_tables:
 슡	siut
 슢	siup
 슣	siuh
-스	sy	1000
-슥	syg	1000
-슦	sygg
-슧	sygs
-슨	syn	1000
-슩	synj
-슪	synh
-슫	syd
-슬	syl	1000
-슭	sylg	1000
-슮	sylm
-슯	sylb
-슰	syls
-슱	sylt
-슲	sylp
-슳	sylh
-슴	sym	1000
-습	syb	1000
-슶	sybs
-슷	sys	1000
-슸	syss
-승	syq	1000
-슺	syj
-슻	syc
-슼	syk
-슽	syt
-슾	syp
-슿	syh
-싀	syi
-싁	syig
-싂	syigg
-싃	syigs
-싄	syin
-싅	syinj
-싆	syinh
-싇	syid
-싈	syil
-싉	syilg
-싊	syilm
-싋	syilb
-싌	syils
-싍	syilt
-싎	syilp
-싏	syilh
-싐	syim
-싑	syib
-싒	syibs
-싓	syis
-싔	syiss
-싕	syiq
-싖	syij
-싗	syic
-싘	syik
-싙	syit
-싚	syip
-싛	syih
+스	sw	1000
+슥	swg	1000
+슦	swgg
+슧	swgs
+슨	swn	1000
+슩	swnj
+슪	swnh
+슫	swd
+슬	swl	1000
+슭	swlg	1000
+슮	swlm
+슯	swlb
+슰	swls
+슱	swlt
+슲	swlp
+슳	swlh
+슴	swm	1000
+습	swb	1000
+슶	swbs
+슷	sws	1000
+슸	swss
+승	swq	1000
+슺	swj
+슻	swc
+슼	swk
+슽	swt
+슾	swp
+슿	swh
+싀	swi
+싁	swig
+싂	swigg
+싃	swigs
+싄	swin
+싅	swinj
+싆	swinh
+싇	swid
+싈	swil
+싉	swilg
+싊	swilm
+싋	swilb
+싌	swils
+싍	swilt
+싎	swilp
+싏	swilh
+싐	swim
+싑	swib
+싒	swibs
+싓	swis
+싔	swiss
+싕	swiq
+싖	swij
+싗	swic
+싘	swik
+싙	swit
+싚	swip
+싛	swih
 시	si	1000
 식	sig	1000
 싞	sigg
@@ -6448,62 +6448,62 @@ import_tables:
 쓭	ssiut
 쓮	ssiup
 쓯	ssiuh
-쓰	ssy	1000
-쓱	ssyg	1000
-쓲	ssygg
-쓳	ssygs
-쓴	ssyn	1000
-쓵	ssynj
-쓶	ssynh
-쓷	ssyd
-쓸	ssyl	1000
-쓹	ssylg
-쓺	ssylm	1000
-쓻	ssylb
-쓼	ssyls
-쓽	ssylt
-쓾	ssylp
-쓿	ssylh	1000
-씀	ssym	1000
-씁	ssyb	1000
-씂	ssybs
-씃	ssys
-씄	ssyss
-씅	ssyq
-씆	ssyj
-씇	ssyc
-씈	ssyk
-씉	ssyt
-씊	ssyp
-씋	ssyh
-씌	ssyi	1000
-씍	ssyig
-씎	ssyigg
-씏	ssyigs
-씐	ssyin	1000
-씑	ssyinj
-씒	ssyinh
-씓	ssyid
-씔	ssyil	1000
-씕	ssyilg
-씖	ssyilm
-씗	ssyilb
-씘	ssyils
-씙	ssyilt
-씚	ssyilp
-씛	ssyilh
-씜	ssyim	1000
-씝	ssyib
-씞	ssyibs
-씟	ssyis
-씠	ssyiss
-씡	ssyiq
-씢	ssyij
-씣	ssyic
-씤	ssyik
-씥	ssyit
-씦	ssyip
-씧	ssyih
+쓰	ssw	1000
+쓱	sswg	1000
+쓲	sswgg
+쓳	sswgs
+쓴	sswn	1000
+쓵	sswnj
+쓶	sswnh
+쓷	sswd
+쓸	sswl	1000
+쓹	sswlg
+쓺	sswlm	1000
+쓻	sswlb
+쓼	sswls
+쓽	sswlt
+쓾	sswlp
+쓿	sswlh	1000
+씀	sswm	1000
+씁	sswb	1000
+씂	sswbs
+씃	ssws
+씄	sswss
+씅	sswq
+씆	sswj
+씇	sswc
+씈	sswk
+씉	sswt
+씊	sswp
+씋	sswh
+씌	sswi	1000
+씍	sswig
+씎	sswigg
+씏	sswigs
+씐	sswin	1000
+씑	sswinj
+씒	sswinh
+씓	sswid
+씔	sswil	1000
+씕	sswilg
+씖	sswilm
+씗	sswilb
+씘	sswils
+씙	sswilt
+씚	sswilp
+씛	sswilh
+씜	sswim	1000
+씝	sswib
+씞	sswibs
+씟	sswis
+씠	sswiss
+씡	sswiq
+씢	sswij
+씣	sswic
+씤	sswik
+씥	sswit
+씦	sswip
+씧	sswih
 씨	ssi	1000
 씩	ssig	1000
 씪	ssigg
@@ -7039,62 +7039,62 @@ import_tables:
 윹	qiut
 윺	qiup
 윻	qiuh
-으	qy	1000
-윽	qyg	1000
-윾	qygg
-윿	qygs
-은	qyn	1000
-읁	qynj
-읂	qynh
-읃	qyd
-을	qyl	1000
-읅	qylg
-읆	qylm
-읇	qylb
-읈	qyls
-읉	qylt
-읊	qylp	1000
-읋	qylh
-음	qym	1000
-읍	qyb	1000
-읎	qybs
-읏	qys	1000
-읐	qyss
-응	qyq	1000
-읒	qyj	1000
-읓	qyc	1000
-읔	qyk	1000
-읕	qyt	1000
-읖	qyp	1000
-읗	qyh	1000
-의	qyi	1000
-읙	qyig
-읚	qyigg
-읛	qyigs
-읜	qyin	1000
-읝	qyinj
-읞	qyinh
-읟	qyid
-읠	qyil	1000
-읡	qyilg
-읢	qyilm
-읣	qyilb
-읤	qyils
-읥	qyilt
-읦	qyilp
-읧	qyilh
-읨	qyim	1000
-읩	qyib
-읪	qyibs
-읫	qyis	1000
-읬	qyiss
-읭	qyiq
-읮	qyij
-읯	qyic
-읰	qyik
-읱	qyit
-읲	qyip
-읳	qyih
+으	qw	1000
+윽	qwg	1000
+윾	qwgg
+윿	qwgs
+은	qwn	1000
+읁	qwnj
+읂	qwnh
+읃	qwd
+을	qwl	1000
+읅	qwlg
+읆	qwlm
+읇	qwlb
+읈	qwls
+읉	qwlt
+읊	qwlp	1000
+읋	qwlh
+음	qwm	1000
+읍	qwb	1000
+읎	qwbs
+읏	qws	1000
+읐	qwss
+응	qwq	1000
+읒	qwj	1000
+읓	qwc	1000
+읔	qwk	1000
+읕	qwt	1000
+읖	qwp	1000
+읗	qwh	1000
+의	qwi	1000
+읙	qwig
+읚	qwigg
+읛	qwigs
+읜	qwin	1000
+읝	qwinj
+읞	qwinh
+읟	qwid
+읠	qwil	1000
+읡	qwilg
+읢	qwilm
+읣	qwilb
+읤	qwils
+읥	qwilt
+읦	qwilp
+읧	qwilh
+읨	qwim	1000
+읩	qwib
+읪	qwibs
+읫	qwis	1000
+읬	qwiss
+읭	qwiq
+읮	qwij
+읯	qwic
+읰	qwik
+읱	qwit
+읲	qwip
+읳	qwih
 이	qi	1000
 익	qig	1000
 읶	qigg
@@ -7632,62 +7632,62 @@ import_tables:
 즅	jiut
 즆	jiup
 즇	jiuh
-즈	jy	1000
-즉	jyg	1000
-즊	jygg
-즋	jygs
-즌	jyn	1000
-즍	jynj
-즎	jynh
-즏	jyd
-즐	jyl	1000
-즑	jylg
-즒	jylm
-즓	jylb
-즔	jyls
-즕	jylt
-즖	jylp
-즗	jylh
-즘	jym	1000
-즙	jyb	1000
-즚	jybs
-즛	jys	1000
-즜	jyss
-증	jyq	1000
-즞	jyj
-즟	jyc
-즠	jyk
-즡	jyt
-즢	jyp
-즣	jyh
-즤	jyi
-즥	jyig
-즦	jyigg
-즧	jyigs
-즨	jyin
-즩	jyinj
-즪	jyinh
-즫	jyid
-즬	jyil
-즭	jyilg
-즮	jyilm
-즯	jyilb
-즰	jyils
-즱	jyilt
-즲	jyilp
-즳	jyilh
-즴	jyim
-즵	jyib
-즶	jyibs
-즷	jyis
-즸	jyiss
-즹	jyiq
-즺	jyij
-즻	jyic
-즼	jyik
-즽	jyit
-즾	jyip
-즿	jyih
+즈	jw	1000
+즉	jwg	1000
+즊	jwgg
+즋	jwgs
+즌	jwn	1000
+즍	jwnj
+즎	jwnh
+즏	jwd
+즐	jwl	1000
+즑	jwlg
+즒	jwlm
+즓	jwlb
+즔	jwls
+즕	jwlt
+즖	jwlp
+즗	jwlh
+즘	jwm	1000
+즙	jwb	1000
+즚	jwbs
+즛	jws	1000
+즜	jwss
+증	jwq	1000
+즞	jwj
+즟	jwc
+즠	jwk
+즡	jwt
+즢	jwp
+즣	jwh
+즤	jwi
+즥	jwig
+즦	jwigg
+즧	jwigs
+즨	jwin
+즩	jwinj
+즪	jwinh
+즫	jwid
+즬	jwil
+즭	jwilg
+즮	jwilm
+즯	jwilb
+즰	jwils
+즱	jwilt
+즲	jwilp
+즳	jwilh
+즴	jwim
+즵	jwib
+즶	jwibs
+즷	jwis
+즸	jwiss
+즹	jwiq
+즺	jwij
+즻	jwic
+즼	jwik
+즽	jwit
+즾	jwip
+즿	jwih
 지	ji	1000
 직	jig	1000
 짂	jigg
@@ -8221,62 +8221,62 @@ import_tables:
 쯑	jjiut
 쯒	jjiup
 쯓	jjiuh
-쯔	jjy	1000
-쯕	jjyg
-쯖	jjygg
-쯗	jjygs
-쯘	jjyn
-쯙	jjynj
-쯚	jjynh
-쯛	jjyd
-쯜	jjyl
-쯝	jjylg
-쯞	jjylm
-쯟	jjylb
-쯠	jjyls
-쯡	jjylt
-쯢	jjylp
-쯣	jjylh
-쯤	jjym	1000
-쯥	jjyb
-쯦	jjybs
-쯧	jjys	1000
-쯨	jjyss
-쯩	jjyq	1000
-쯪	jjyj
-쯫	jjyc
-쯬	jjyk
-쯭	jjyt
-쯮	jjyp
-쯯	jjyh
-쯰	jjyi
-쯱	jjyig
-쯲	jjyigg
-쯳	jjyigs
-쯴	jjyin
-쯵	jjyinj
-쯶	jjyinh
-쯷	jjyid
-쯸	jjyil
-쯹	jjyilg
-쯺	jjyilm
-쯻	jjyilb
-쯼	jjyils
-쯽	jjyilt
-쯾	jjyilp
-쯿	jjyilh
-찀	jjyim
-찁	jjyib
-찂	jjyibs
-찃	jjyis
-찄	jjyiss
-찅	jjyiq
-찆	jjyij
-찇	jjyic
-찈	jjyik
-찉	jjyit
-찊	jjyip
-찋	jjyih
+쯔	jjw	1000
+쯕	jjwg
+쯖	jjwgg
+쯗	jjwgs
+쯘	jjwn
+쯙	jjwnj
+쯚	jjwnh
+쯛	jjwd
+쯜	jjwl
+쯝	jjwlg
+쯞	jjwlm
+쯟	jjwlb
+쯠	jjwls
+쯡	jjwlt
+쯢	jjwlp
+쯣	jjwlh
+쯤	jjwm	1000
+쯥	jjwb
+쯦	jjwbs
+쯧	jjws	1000
+쯨	jjwss
+쯩	jjwq	1000
+쯪	jjwj
+쯫	jjwc
+쯬	jjwk
+쯭	jjwt
+쯮	jjwp
+쯯	jjwh
+쯰	jjwi
+쯱	jjwig
+쯲	jjwigg
+쯳	jjwigs
+쯴	jjwin
+쯵	jjwinj
+쯶	jjwinh
+쯷	jjwid
+쯸	jjwil
+쯹	jjwilg
+쯺	jjwilm
+쯻	jjwilb
+쯼	jjwils
+쯽	jjwilt
+쯾	jjwilp
+쯿	jjwilh
+찀	jjwim
+찁	jjwib
+찂	jjwibs
+찃	jjwis
+찄	jjwiss
+찅	jjwiq
+찆	jjwij
+찇	jjwic
+찈	jjwik
+찉	jjwit
+찊	jjwip
+찋	jjwih
 찌	jji	1000
 찍	jjig	1000
 찎	jjigg
@@ -8810,62 +8810,62 @@ import_tables:
 츝	ciut
 츞	ciup
 츟	ciuh
-츠	cy	1000
-측	cyg	1000
-츢	cygg
-츣	cygs
-츤	cyn	1000
-츥	cynj
-츦	cynh
-츧	cyd
-츨	cyl	1000
-츩	cylg
-츪	cylm
-츫	cylb
-츬	cyls
-츭	cylt
-츮	cylp
-츯	cylh
-츰	cym	1000
-츱	cyb	1000
-츲	cybs
-츳	cys	1000
-츴	cyss
-층	cyq	1000
-츶	cyj
-츷	cyc
-츸	cyk
-츹	cyt
-츺	cyp
-츻	cyh
-츼	cyi
-츽	cyig
-츾	cyigg
-츿	cyigs
-칀	cyin
-칁	cyinj
-칂	cyinh
-칃	cyid
-칄	cyil
-칅	cyilg
-칆	cyilm
-칇	cyilb
-칈	cyils
-칉	cyilt
-칊	cyilp
-칋	cyilh
-칌	cyim
-칍	cyib
-칎	cyibs
-칏	cyis
-칐	cyiss
-칑	cyiq
-칒	cyij
-칓	cyic
-칔	cyik
-칕	cyit
-칖	cyip
-칗	cyih
+츠	cw	1000
+측	cwg	1000
+츢	cwgg
+츣	cwgs
+츤	cwn	1000
+츥	cwnj
+츦	cwnh
+츧	cwd
+츨	cwl	1000
+츩	cwlg
+츪	cwlm
+츫	cwlb
+츬	cwls
+츭	cwlt
+츮	cwlp
+츯	cwlh
+츰	cwm	1000
+츱	cwb	1000
+츲	cwbs
+츳	cws	1000
+츴	cwss
+층	cwq	1000
+츶	cwj
+츷	cwc
+츸	cwk
+츹	cwt
+츺	cwp
+츻	cwh
+츼	cwi
+츽	cwig
+츾	cwigg
+츿	cwigs
+칀	cwin
+칁	cwinj
+칂	cwinh
+칃	cwid
+칄	cwil
+칅	cwilg
+칆	cwilm
+칇	cwilb
+칈	cwils
+칉	cwilt
+칊	cwilp
+칋	cwilh
+칌	cwim
+칍	cwib
+칎	cwibs
+칏	cwis
+칐	cwiss
+칑	cwiq
+칒	cwij
+칓	cwic
+칔	cwik
+칕	cwit
+칖	cwip
+칗	cwih
 치	ci	1000
 칙	cig	1000
 칚	cigg
@@ -9399,62 +9399,62 @@ import_tables:
 큩	kiut
 큪	kiup
 큫	kiuh
-크	ky	1000
-큭	kyg	1000
-큮	kygg
-큯	kygs
-큰	kyn	1000
-큱	kynj
-큲	kynh
-큳	kyd
-클	kyl	1000
-큵	kylg
-큶	kylm
-큷	kylb
-큸	kyls
-큹	kylt
-큺	kylp
-큻	kylh
-큼	kym	1000
-큽	kyb	1000
-큾	kybs
-큿	kys
-킀	kyss
-킁	kyq	1000
-킂	kyj
-킃	kyc
-킄	kyk
-킅	kyt
-킆	kyp
-킇	kyh
-킈	kyi
-킉	kyig
-킊	kyigg
-킋	kyigs
-킌	kyin
-킍	kyinj
-킎	kyinh
-킏	kyid
-킐	kyil
-킑	kyilg
-킒	kyilm
-킓	kyilb
-킔	kyils
-킕	kyilt
-킖	kyilp
-킗	kyilh
-킘	kyim
-킙	kyib
-킚	kyibs
-킛	kyis
-킜	kyiss
-킝	kyiq
-킞	kyij
-킟	kyic
-킠	kyik
-킡	kyit
-킢	kyip
-킣	kyih
+크	kw	1000
+큭	kwg	1000
+큮	kwgg
+큯	kwgs
+큰	kwn	1000
+큱	kwnj
+큲	kwnh
+큳	kwd
+클	kwl	1000
+큵	kwlg
+큶	kwlm
+큷	kwlb
+큸	kwls
+큹	kwlt
+큺	kwlp
+큻	kwlh
+큼	kwm	1000
+큽	kwb	1000
+큾	kwbs
+큿	kws
+킀	kwss
+킁	kwq	1000
+킂	kwj
+킃	kwc
+킄	kwk
+킅	kwt
+킆	kwp
+킇	kwh
+킈	kwi
+킉	kwig
+킊	kwigg
+킋	kwigs
+킌	kwin
+킍	kwinj
+킎	kwinh
+킏	kwid
+킐	kwil
+킑	kwilg
+킒	kwilm
+킓	kwilb
+킔	kwils
+킕	kwilt
+킖	kwilp
+킗	kwilh
+킘	kwim
+킙	kwib
+킚	kwibs
+킛	kwis
+킜	kwiss
+킝	kwiq
+킞	kwij
+킟	kwic
+킠	kwik
+킡	kwit
+킢	kwip
+킣	kwih
 키	ki	1000
 킥	kig	1000
 킦	kigg
@@ -9988,62 +9988,62 @@ import_tables:
 튵	tiut
 튶	tiup
 튷	tiuh
-트	ty	1000
-특	tyg	1000
-튺	tygg
-튻	tygs
-튼	tyn	1000
-튽	tynj
-튾	tynh
-튿	tyd	1000
-틀	tyl	1000
-틁	tylg
-틂	tylm	1000
-틃	tylb
-틄	tyls
-틅	tylt
-틆	tylp
-틇	tylh
-틈	tym	1000
-틉	tyb	1000
-틊	tybs
-틋	tys	1000
-틌	tyss
-틍	tyq
-틎	tyj
-틏	tyc
-틐	tyk
-틑	tyt
-틒	typ
-틓	tyh
-틔	tyi	1000
-틕	tyig
-틖	tyigg
-틗	tyigs
-틘	tyin	1000
-틙	tyinj
-틚	tyinh
-틛	tyid
-틜	tyil	1000
-틝	tyilg
-틞	tyilm
-틟	tyilb
-틠	tyils
-틡	tyilt
-틢	tyilp
-틣	tyilh
-틤	tyim	1000
-틥	tyib	1000
-틦	tyibs
-틧	tyis
-틨	tyiss
-틩	tyiq
-틪	tyij
-틫	tyic
-틬	tyik
-틭	tyit
-틮	tyip
-틯	tyih
+트	tw	1000
+특	twg	1000
+튺	twgg
+튻	twgs
+튼	twn	1000
+튽	twnj
+튾	twnh
+튿	twd	1000
+틀	twl	1000
+틁	twlg
+틂	twlm	1000
+틃	twlb
+틄	twls
+틅	twlt
+틆	twlp
+틇	twlh
+틈	twm	1000
+틉	twb	1000
+틊	twbs
+틋	tws	1000
+틌	twss
+틍	twq
+틎	twj
+틏	twc
+틐	twk
+틑	twt
+틒	twp
+틓	twh
+틔	twi	1000
+틕	twig
+틖	twigg
+틗	twigs
+틘	twin	1000
+틙	twinj
+틚	twinh
+틛	twid
+틜	twil	1000
+틝	twilg
+틞	twilm
+틟	twilb
+틠	twils
+틡	twilt
+틢	twilp
+틣	twilh
+틤	twim	1000
+틥	twib	1000
+틦	twibs
+틧	twis
+틨	twiss
+틩	twiq
+틪	twij
+틫	twic
+틬	twik
+틭	twit
+틮	twip
+틯	twih
 티	ti	1000
 틱	tig	1000
 틲	tigg
@@ -10577,62 +10577,62 @@ import_tables:
 픁	piut
 픂	piup
 픃	piuh
-프	py	1000
-픅	pyg
-픆	pygg
-픇	pygs
-픈	pyn	1000
-픉	pynj
-픊	pynh
-픋	pyd
-플	pyl	1000
-픍	pylg
-픎	pylm
-픏	pylb
-픐	pyls
-픑	pylt
-픒	pylp
-픓	pylh
-픔	pym	1000
-픕	pyb	1000
-픖	pybs
-픗	pys	1000
-픘	pyss
-픙	pyq
-픚	pyj
-픛	pyc
-픜	pyk
-픝	pyt
-픞	pyp
-픟	pyh
-픠	pyi
-픡	pyig
-픢	pyigg
-픣	pyigs
-픤	pyin
-픥	pyinj
-픦	pyinh
-픧	pyid
-픨	pyil
-픩	pyilg
-픪	pyilm
-픫	pyilb
-픬	pyils
-픭	pyilt
-픮	pyilp
-픯	pyilh
-픰	pyim
-픱	pyib
-픲	pyibs
-픳	pyis
-픴	pyiss
-픵	pyiq
-픶	pyij
-픷	pyic
-픸	pyik
-픹	pyit
-픺	pyip
-픻	pyih
+프	pw	1000
+픅	pwg
+픆	pwgg
+픇	pwgs
+픈	pwn	1000
+픉	pwnj
+픊	pwnh
+픋	pwd
+플	pwl	1000
+픍	pwlg
+픎	pwlm
+픏	pwlb
+픐	pwls
+픑	pwlt
+픒	pwlp
+픓	pwlh
+픔	pwm	1000
+픕	pwb	1000
+픖	pwbs
+픗	pws	1000
+픘	pwss
+픙	pwq
+픚	pwj
+픛	pwc
+픜	pwk
+픝	pwt
+픞	pwp
+픟	pwh
+픠	pwi
+픡	pwig
+픢	pwigg
+픣	pwigs
+픤	pwin
+픥	pwinj
+픦	pwinh
+픧	pwid
+픨	pwil
+픩	pwilg
+픪	pwilm
+픫	pwilb
+픬	pwils
+픭	pwilt
+픮	pwilp
+픯	pwilh
+픰	pwim
+픱	pwib
+픲	pwibs
+픳	pwis
+픴	pwiss
+픵	pwiq
+픶	pwij
+픷	pwic
+픸	pwik
+픹	pwit
+픺	pwip
+픻	pwih
 피	pi	1000
 픽	pig	1000
 픾	pigg
@@ -11167,62 +11167,62 @@ import_tables:
 흍	hiut
 흎	hiup
 흏	hiuh
-흐	hy	1000
-흑	hyg	1000
-흒	hygg
-흓	hygs
-흔	hyn	1000
-흕	hynj
-흖	hynh	1000
-흗	hyd	1000
-흘	hyl	1000
-흙	hylg	1000
-흚	hylm
-흛	hylb
-흜	hyls
-흝	hylt
-흞	hylp
-흟	hylh
-흠	hym	1000
-흡	hyb	1000
-흢	hybs
-흣	hys	1000
-흤	hyss
-흥	hyq	1000
-흦	hyj
-흧	hyc
-흨	hyk
-흩	hyt	1000
-흪	hyp
-흫	hyh
-희	hyi	1000
-흭	hyig
-흮	hyigg
-흯	hyigs
-흰	hyin	1000
-흱	hyinj
-흲	hyinh
-흳	hyid
-흴	hyil	1000
-흵	hyilg
-흶	hyilm
-흷	hyilb
-흸	hyils
-흹	hyilt
-흺	hyilp
-흻	hyilh
-흼	hyim	1000
-흽	hyib	1000
-흾	hyibs
-흿	hyis
-힀	hyiss
-힁	hyiq	1000
-힂	hyij
-힃	hyic
-힄	hyik
-힅	hyit
-힆	hyip
-힇	hyih
+흐	hw	1000
+흑	hwg	1000
+흒	hwgg
+흓	hwgs
+흔	hwn	1000
+흕	hwnj
+흖	hwnh	1000
+흗	hwd	1000
+흘	hwl	1000
+흙	hwlg	1000
+흚	hwlm
+흛	hwlb
+흜	hwls
+흝	hwlt
+흞	hwlp
+흟	hwlh
+흠	hwm	1000
+흡	hwb	1000
+흢	hwbs
+흣	hws	1000
+흤	hwss
+흥	hwq	1000
+흦	hwj
+흧	hwc
+흨	hwk
+흩	hwt	1000
+흪	hwp
+흫	hwh
+희	hwi	1000
+흭	hwig
+흮	hwigg
+흯	hwigs
+흰	hwin	1000
+흱	hwinj
+흲	hwinh
+흳	hwid
+흴	hwil	1000
+흵	hwilg
+흶	hwilm
+흷	hwilb
+흸	hwils
+흹	hwilt
+흺	hwilp
+흻	hwilh
+흼	hwim	1000
+흽	hwib	1000
+흾	hwibs
+흿	hwis
+힀	hwiss
+힁	hwiq	1000
+힂	hwij
+힃	hwic
+힄	hwik
+힅	hwit
+힆	hwip
+힇	hwih
 히	hi	1000
 힉	hig	1000
 힊	higg
@@ -11277,8 +11277,8 @@ import_tables:
 ㆊ	iuie	0%
 ㆋ	iuiei	0%
 ㆌ	iui	0%
-ㅡ	y	0%
-ㅢ	yi	0%
+ㅡ	w	0%
+ㅢ	wi	0%
 ㅣ	i	0%
 ㆍ	v	0%
 ㆎ	vi	0%

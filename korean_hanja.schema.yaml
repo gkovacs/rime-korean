@@ -50,19 +50,20 @@ speller:
   delimiter: " '"
   algebra:
     - derive/(^|[ '])q([aeouiy])/$1$2/
-    - derive/q$/ng/
+    #- derive/q$/ng/
     - derive/q/x/
-#    - derive/l/n/
-#    - derive/(^|[ '])([nl])i/$1i/
+    #- derive/l/n/
+    #- derive/(^|[ '])([nl])i/$1i/
     - derive/l/r/
     - derive/b/v/
     - derive/p/f/
     - derive/j/z/
-    - derive/u/w/
-    - derive/oa/wa/
-    - derive/u([ei])/w$1/
-    - derive/ue/wo/
-    - derive/i([aeou])/y$1/
+    - derive/i/y/
+    #- derive/u/w/
+    #- derive/oa/wa/
+    #- derive/u([ei])/w$1/
+    #- derive/ue/wo/
+    #- derive/i([aeou])/y$1/
     - derive/^([A-Za-z]+)\d$/$1/
     - 'derive/^(.*)-$/$1:/'
     - 'derive/^(.*)-$/$1;/'

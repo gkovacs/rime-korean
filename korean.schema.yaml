@@ -54,17 +54,18 @@ speller:
   algebra:
     - abbrev/^([gndlmbsqjcktph]).+$/$1/
     - derive/(^|[ '])q?([aeiouy])/$1$2/
-    - derive/q$/ng/
+    #- derive/q$/ng/
     - derive/q/x/
     - derive/l/r/
     - derive/b/v/
     - derive/p/f/
     - derive/j/z/
-    - derive/u/w/
-    - derive/oa/wa/
-    - derive/u([ei])/w$1/
-    - derive/ue/wo/
-    - derive/i([aeou])/y$1/
+    - derive/i/y/
+    #- derive/y/w/
+    #- derive/oa/wa/
+    #- derive/u([ei])/w$1/
+    #- derive/ue/wo/
+    #- derive/i([aeou])/y$1/
     - derive/^([A-Za-z]+)\d$/$1/
 
 translator:
