@@ -68,6 +68,10 @@ speller:
     #- derive/i([aeou])/y$1/
     - derive/^([A-Za-z]+)\d$/$1/
 
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 9
+
 translator:
   dictionary: korean
   prism: korean
